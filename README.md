@@ -1,16 +1,23 @@
-### Hi there 👋
+<h2> Hi, I'm Mehmet Ali! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/bPCwGUF2sKjyE/giphy.gif" width="230">
+<p><em>Computer Enginner Student at <a href="https://www.mehmetakif.edu.tr/%22%3EMehmet Akif Ersoy University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Currently working Freelance<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<!--
-**emrealkan884/emrealkan884** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](http://imgur.com/gallery/ZRJAQRB)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```Java
+class Emre {
+    public static void main(String[] args) {
+        Self self = new Self();
+        self.username = "emrealkan884";
+        self.name = "Hasan Emre Alkan";
+        self.code = { 
+            "backend": ["Java", "C#", "Php"],
+            "database": ["Oracle","PostgreSQL", "MySQL", "MSSQL"],
+            "misc": ['Firebase', 'SOLID']};
+    }
+}
+
+```
+
