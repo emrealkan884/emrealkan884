@@ -5,7 +5,7 @@
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-### <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="50"> A little more about me...  
     
 ```javascript
 class Emre {
