@@ -1,4 +1,4 @@
-<h2> Hi, I'm Emre Alkan! <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Emre Alkan! <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="50"></h2>
 
 
 <img align='right' src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="230">
