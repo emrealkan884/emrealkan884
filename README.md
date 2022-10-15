@@ -1,4 +1,4 @@
-<h2> Hi, I'm Emre Alkan! <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Emre Alkan! <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="70"></h2>
 <img align='right' src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="230">
 <p><em>Computer Engineer Student at <a href="https://www.mehmetakif.edu.tr/">Mehmet Akif Ersoy University</a>
 <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="30"></br>Currently working Freelance
