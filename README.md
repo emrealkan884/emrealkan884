@@ -19,7 +19,7 @@ class Emre {
         self.code = { 
             "backend": ["Java", "C#", "Php"],
             "database": ["Oracle","PostgreSQL", "MySQL", "MSSQL"],
-            "misc": ['Firebase', 'SOLID']};
+            "misc": ['Firebase', 'SOLID', 'OOP']};
     }
 }
 ```
