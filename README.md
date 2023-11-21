@@ -75,7 +75,7 @@
 ## Github Stats  
 
 ![](https://github-readme-stats.vercel.app/api?username=emrealkan884&theme=algolia&hide_border=true&include_all_commits=false&count_private=false)
-<div align="right">![](https://github-readme-stats.vercel.app/api/top-langs/?username=emrealkan884&theme=algolia&hide_border=true&include_all_commits=false&count_private=false&layout=compact)</div>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=emrealkan884&theme=algolia&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
 <br/>  
