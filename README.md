@@ -1,12 +1,21 @@
 ### *<div align="center">Hi, I am Hasan Emre Alkan 👋</div>*  
   
 
-- <div align="center">I graduated from Mehmet Akif Ersoy University, Department of Computer Engineering in 2023. </div>  
+#### <div align="center">I graduated from Mehmet Akif Ersoy University, Department of Computer Engineering in 2023. </div>  
   
+
+#### <div align="center">Backend Developer</div>  
   
 
 <div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjhzNG80c3lyMGlpZnBtMDF2ZG8yejFidXl2enV1Y3htbzcwbGw0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" align="center" height="500" width="600" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjhzNG80c3lyMGlpZnBtMDF2ZG8yejFidXl2enV1Y3htbzcwbGw0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" align="center" height="400" width="600" />
+</div>  
+  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=emrealkan884&&style=flat-square" align="center" />
 </div>  
   
 
@@ -14,8 +23,8 @@
 
 
 ## My Skill Set  
-</td><td valign="top" width="33%">
 
+</td><td valign="top" width="33%">
 
 
 ### Backend  
@@ -36,6 +45,7 @@
 <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
 </div>
+
 
 </td></tr></table>  
 
@@ -65,6 +75,6 @@
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=emrealkan884&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrealkan884&hide_border=true&layout=compact" align="right" /></div>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrealkan884&hide_border=true&layout=compact" align="left" />  
 
 <br/>  
