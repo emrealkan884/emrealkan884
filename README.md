@@ -1,7 +1,7 @@
 ### *<div align="center">Hi, I am Hasan Emre Alkan 👋</div>*  
   
 
-#### <div align="center">I graduated from Mehmet Akif Ersoy University, Department of Computer Engineering in 2023. </div>  
+#### <div align="center">I graduated from Mehmet Akif Ersoy University, Department of Computer Engineering in 2023. I did my internship at İSDEMIR in 2022 </div>  
   
 
 #### <div align="center">Backend Developer</div>  
